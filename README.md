@@ -1,4 +1,10 @@
-# Cloud_programming_models
+# Cloud Assignment 3 
+## Team members
+- 19C005 Aneerudh M
+- 19C007 Arun M
+- 19C008 Arvin Danny C S
+- 19C026 Gurusaran M
+## Cloud_programming_models
 
 ## Concurrency programming
 
